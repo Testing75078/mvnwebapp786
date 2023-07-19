@@ -22,5 +22,5 @@ jobs:
       uses: kitabisa/sonarqube-action@v1.2.0
       with:
         host: http://10.10.146.167:9000/
-        login: 2f68bd9a1723ccf316a13fca7508d39f88fb8b7a
-        projectkey: github-testing
+        login: 83e6c617247bde8ea073989c81e9bccc9adc7ba4
+        projectkey: git
